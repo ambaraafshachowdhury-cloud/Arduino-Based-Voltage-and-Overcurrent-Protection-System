@@ -3,13 +3,13 @@
 ## Project Overview
 This project is a simulation of a microcontroller-based voltage protector designed to disconnect a load during overvoltage, undervoltage, or overcurrent events. It features local push-button control and serial communication for configuration.
 
-## Repository Structure
-- `src/` : Contains the Arduino firmware source code.
-- `design_document.pdf` : One-page design report.
-- `schematics/` : Proteus schematic and block diagram.
-- `test_evidence/` : Screenshots and logs of the simulation testing.
-- `project_files/` : Contains the Proteus simulation project files.
-- `readme.md` : This file.
+Repository Structure
+- code.zip / src_code.pdf : Arduino firmware source code.
+- ProjectReport.pdf : One-page project design report.
+- Circuit_Proteus_file.zip / SchematicDiagram.png : Proteus schematic and diagrams.
+- photos_ckt_testing.zip : Screenshots and logs of circuit/simulation testing.
+- Proteus_Code_Testing.zip : Proteus simulation project files and code testing setup.
+- README.md / README.pdf : Project documentation.
 
 ## How to Run the Simulation
 
